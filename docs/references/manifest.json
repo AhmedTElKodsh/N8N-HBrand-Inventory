@@ -1,0 +1,45 @@
+{
+  "recorded_date": "2026-10-27",
+  "reference_assets": [
+    {
+      "path": "docs/references/inventory-general.png",
+      "bytes": 67183,
+      "sha256": "4cf00b178585f96d48675f50d95867e63e8eccf97e5aea9eab4177b6d74157ed",
+      "provenance": "owner screenshot"
+    },
+    {
+      "path": "docs/references/inventory-variants.png",
+      "bytes": 48147,
+      "sha256": "e21120d818e8aeecf62b85973eec9a524d2011bfcfbfd622eaeca51480b2de92",
+      "provenance": "owner screenshot"
+    },
+    {
+      "path": "docs/references/source-row-26-front.jpeg",
+      "bytes": 19853,
+      "sha256": "69d697f9347bef82d4ce6de64089c30d9b4195c05dc5971c8ee3cec6aa2edea9",
+      "provenance": "original children workbook embedded image; source row named in filename"
+    },
+    {
+      "path": "docs/references/source-row-28-front.jpeg",
+      "bytes": 20978,
+      "sha256": "70c905973493a298f495fd0ffa0fd524be33ec183fd3703218661b90de9b387d",
+      "provenance": "original children workbook embedded image; source row named in filename"
+    },
+    {
+      "path": "docs/references/source-row-47-front.jpeg",
+      "bytes": 21291,
+      "sha256": "1e066cdf5c85bcd64a6a1f5a033f9888fffc27cfd6fbc117722c978ab56a633b",
+      "provenance": "original children workbook embedded image; source row named in filename"
+    }
+  ],
+  "original_workbook_observation": {
+    "source_url": "https://drive.google.com/file/d/1egFqMpkufaaSFfKJk05gTnXWSKxBoxgJ/view",
+    "bytes": 947211,
+    "sha256": "eb407ec0a8ed50778e3d4f5460dc331eb816a25330d692e1f967614729b8e42d",
+    "worksheet_names": [
+      "ورقة1"
+    ],
+    "embedded_media_count": 51,
+    "scope_note": "Inspection copy from this discussion; not a current whole-folder verification. Full source workbook is not stored in the repository."
+  }
+}

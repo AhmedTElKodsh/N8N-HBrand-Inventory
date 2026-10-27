@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-27",
+  "scope": "Static documentation checks; no application/runtime/live acceptance tested",
+  "ok": true,
+  "markdown_files": 38,
+  "authored_markdown_excluding_memlogs_and_reviews": 29,
+  "local_links_checked": 88,
+  "external_links_recorded_not_network_crawled": 18,
+  "capabilities": 13,
+  "functional_requirements": 26,
+  "acceptance_scenarios": 22,
+  "backlog_stories": 21,
+  "architecture_decisions": 11,
+  "open_questions": 15,
+  "failures": [],
+  "warnings": [],
+  "reference_asset_digests_verified": 5,
+  "final_readback": "PASS"
+}

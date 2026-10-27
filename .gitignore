@@ -1,0 +1,29 @@
+# Local credentials and authenticated browser state
+.env
+.env.*
+!.env.example
+browser-profiles/
+storage-state*.json
+cookies*.json
+
+# Runtime data and full supplier workbooks belong outside source control
+runtime/
+data/
+downloads/
+backups/
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.db
+
+# Tool caches
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.pytest_cache/
+
+# Personal BMad answers; generated documentation remains versionable
+_bmad/custom/*.user.toml
+.bmad-help-setup*.toml
